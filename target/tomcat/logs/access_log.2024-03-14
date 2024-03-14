@@ -1,0 +1,1 @@
+0:0:0:0:0:0:0:1 - - [14/Mar/2024:10:54:42 -0300] "GET /api/listCountries HTTP/1.1" 200 9109 http-bio-9090-exec-2 609
